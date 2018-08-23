@@ -1,0 +1,9 @@
+xml文件工具AXMLPrinter2.jar
+
+
+在Ubuntu里安装openjdk7
+
+java -jar AXMLPrinter2.jar main.xml > main.txt
+
+
+就可以查看相关的xml文件
